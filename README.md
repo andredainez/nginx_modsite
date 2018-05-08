@@ -1,2 +1,2 @@
 # nginx_modsite
-Script Nginx to enable or disable sites
+# Copyright (C) 2010 Michael Lustfield <mtecknology@ubuntu.com>
